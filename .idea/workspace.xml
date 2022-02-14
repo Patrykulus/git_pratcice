@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0c44a932-56a1-4528-be73-727fa597a610" name="Changes" comment=".">
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_14_02_2022_16_13__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_14_02_2022_16_13__Changes_.xml" afterDir="false" />
+    <list default="true" id="0c44a932-56a1-4528-be73-727fa597a610" name="Changes" comment="develop">
+      <change afterPath="$PROJECT_DIR$/images2/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images2/img_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images2/img_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images2/img_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images2/img_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images2/img_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images2/img_6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images2/img_7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images2/img_8.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,13 +19,33 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Merge.Settings">
-    <option name="BRANCH" value="styles" />
+    <option name="BRANCH" value="develop" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="develop" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showMembers" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+  </component>
   <component name="TaskManager">
+    <task id="LOCAL-00001" summary="develop">
+      <created>1644856984784</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1644856984784</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -32,5 +59,9 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="develop" />
+    <option name="LAST_COMMIT_MESSAGE" value="develop" />
   </component>
 </project>
