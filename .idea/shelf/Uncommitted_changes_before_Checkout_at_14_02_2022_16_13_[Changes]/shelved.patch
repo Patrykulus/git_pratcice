@@ -1,0 +1,17 @@
+Index: styles/style.css
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>img {font-size = 50px}
+===================================================================
+diff --git a/styles/style.css b/styles/style.css
+--- a/styles/style.css	
++++ b/styles/style.css	
+@@ -1,1 +1,5 @@
+-img {font-size = 50px}
+\ No newline at end of file
++<html>
++<head>
++    <link rel="stylesheet" href="style.css">
++</head>
++</html>
+\ No newline at end of file
