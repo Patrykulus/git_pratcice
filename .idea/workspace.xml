@@ -16,7 +16,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="styles2" />
+        <entry key="$PROJECT_DIR$" value="develop" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -37,7 +37,21 @@
       <option name="project" value="LOCAL" />
       <updated>1644856984784</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="23">
+      <created>1644866458401</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1644866458401</updated>
+    </task>
+    <task id="LOCAL-00003" summary="23">
+      <created>1644866561350</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1644866561350</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -54,6 +68,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="develop" />
-    <option name="LAST_COMMIT_MESSAGE" value="develop" />
+    <MESSAGE value="23" />
+    <option name="LAST_COMMIT_MESSAGE" value="23" />
   </component>
 </project>
