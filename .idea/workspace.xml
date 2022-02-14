@@ -2,16 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0c44a932-56a1-4528-be73-727fa597a610" name="Changes" comment="develop">
-      <change afterPath="$PROJECT_DIR$/images2/img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images2/img_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images2/img_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images2/img_3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images2/img_4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images2/img_5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images2/img_6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images2/img_7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images2/img_8.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +12,9 @@
   </component>
   <component name="Git.Merge.Settings">
     <option name="BRANCH" value="develop" />
+  </component>
+  <component name="Git.Rebase.Settings">
+    <option name="NEW_BASE" value="styles2" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
